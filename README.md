@@ -1,3 +1,3 @@
 # sem1colon.github.io  
 
-## Personal website inspired from [www.Google.com](www.google.com)
+## Personal website inspired from [www.Google.com]
